@@ -4,7 +4,7 @@
   <img src="https://github.com/dportela24/a-gentlemans-drink/blob/master/public/img/logo.png?raw=true" width=66%>
 </p>
 
-## About the project
+## Project Summary
 
 A Gentleman's Drink implements an easy to use website where hundrends of different delicious cocktails recipes can be retrieved. 
 
