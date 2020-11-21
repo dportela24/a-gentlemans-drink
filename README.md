@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-A Gentleman's Drink implements an easy to use website where hundrends of different delicious cocktails recipes can be retrieved. 
+A Gentleman's Drink implements an easy to use website where hundreds of different delicious cocktails recipes can be retrieved. 
 
 The web application is hosted [here](https://a-gentlemans-drink.herokuapp.com), using Heroku cloud plataform.
 
